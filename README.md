@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=60&lines=%E2%9A%A1+VLSI+Physical+Design+Engineer;%F0%9F%94%AC+Digital+Design+%7C+RTL+to+GDSII;%F0%9F%92%A1+Verilog+%7C+SystemVerilog+%7C+Python+%7C+C%2B%2B;%F0%9F%8C%B1+Always+Learning%2C+Always+Building..." alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=60&lines=%E2%9A%A1+VLSI+Physical+Design+Engineer;%F0%9F%94%AC+Digital+Design+%7C+RTL+to+GDSII;%F0%9F%92%A1+Verilog+%7C+SystemVerilog+%7C+Python+%7C+C;%F0%9F%8C%B1+Always+Learning%2C+Always+Building..." alt="Typing SVG" />
 </a>
 
 <br/>
